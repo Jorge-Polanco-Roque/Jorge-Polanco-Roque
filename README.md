@@ -21,7 +21,7 @@
 
 🎓 <strong>Academic Background:</strong>
    <br>
-  * MSc Big Data Analytics for Business (IÉSEG - 🇫🇷)
+  * MSc. Big Data Analytics for Business (IÉSEG - 🇫🇷)
   * B.A. Economics (ITESM - 🇲🇽)
    
    <br>
