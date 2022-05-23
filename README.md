@@ -13,16 +13,16 @@
 
 👔 <strong>Resume:</strong>
   <br>
-  * Consumer, Shopper & Media Insights
-  * Data Scientist
-  * Full Stack Developer 
+  * <em>Consumer, Shopper & Media Insights</em>
+  * <em>Data Scientist</em>
+  * <em>Full Stack Developer</em>
   
   <br>
 
 🎓 <strong>Academic Background:</strong>
    <br>
-  * MSc. Big Data Analytics for Business (IÉSEG - 🇫🇷)
-  * B.A. Economics (ITESM - 🇲🇽)
+  * <em>MSc. Big Data Analytics for Business (IÉSEG - 🇫🇷)</em>
+  * <em>B.A. Economics (ITESM - 🇲🇽)</em>
    
    <br>
 
