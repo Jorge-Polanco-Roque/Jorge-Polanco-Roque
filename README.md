@@ -1,4 +1,4 @@
-# Welcome to my Github profile
+# Welcome to my Github profile 🤙
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/jorge-polanco-roque-78ba7b93">
@@ -26,9 +26,18 @@
    
    <br>
 
-💻 <strong>Programming Languages:</strong>
+💻 <strong>Programming Languages:</strong><br>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <br>
-  🐍, R, SQL, JavaScript 
-
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge-Polanco-Roque&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
