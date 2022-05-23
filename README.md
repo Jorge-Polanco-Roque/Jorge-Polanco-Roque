@@ -19,7 +19,7 @@
   
   <br>
 
-🎓 <strong>Academic Backgroung:</strong>
+🎓 <strong>Academic Background:</strong>
    <br>
   * **MSc Big Data Analytics for Business** (IÉSEG - 🇫🇷)
   * **B.A. Economics** (ITESM - 🇲🇽)
