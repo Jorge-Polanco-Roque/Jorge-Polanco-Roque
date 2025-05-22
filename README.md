@@ -16,11 +16,14 @@
   * <em>Consumer, Shopper & Media Insights</em>
   * <em>Data Scientist</em>
   * <em>Full Stack Developer</em>
+  * <em>Blockchain Dev</em>
+  * <em>SecDevOps</em>
   
   <br>
 
 🎓 <strong>Academic Background:</strong>
    <br>
+  * <em>MBA (EGADE Business School - 🇲🇽)</em>
   * <em>MSc. Big Data Analytics for Business (IÉSEG - 🇫🇷)</em>
   * <em>B.A. Economics (ITESM - 🇲🇽)</em>
    
