@@ -62,7 +62,7 @@ I’m an experienced AI Engineering Manager and Solutions Architect with a multi
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepolanco-roque&layout=compact&langs_count=10&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-polanco-roque&layout=compact&langs_count=10&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
