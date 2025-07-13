@@ -59,18 +59,6 @@ I’m an experienced AI Engineering Manager and Solutions Architect with a multi
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgepolanco-roque&show_icons=true&theme=github_dark&hide_border=true" alt="Jorge's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepolanco-roque&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 Feel free to reach out for collaborations, consulting, or simply to chat about AI and cloud tech.
