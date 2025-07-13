@@ -1,46 +1,80 @@
-# Welcome to my Github profile 🤙
+# 👨‍💻 Jorge Polanco — AI & Cloud Solutions Architect
 
-<div id="badges">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/jorge-polanco-roque-78ba7b93">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/jorgepolanco_ro">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-<hr>
+![Profile Views](https://komarev.com/ghpvc/?username=jorgepolanco-roque&style=flat-square&color=blue)
 
-👔 <strong>Resume:</strong>
-  <br>
-  * <em>Consumer, Shopper & Media Insights</em>
-  * <em>Data Scientist</em>
-  * <em>Full Stack Developer</em>
-  * <em>Blockchain Dev</em>
-  * <em>SecDevOps</em>
-  
-  <br>
+---
 
-🎓 <strong>Academic Background:</strong>
-   <br>
-  * <em>MBA (EGADE Business School - 🇲🇽)</em>
-  * <em>MSc. Big Data Analytics for Business (IÉSEG - 🇫🇷)</em>
-  * <em>B.A. Economics (ITESM - 🇲🇽)</em>
-   
-   <br>
+🔹 **About Me**
 
-💻 <strong>Programming Languages & more:</strong>
-  <br><br>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <br>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+I’m an experienced AI Engineering Manager and Solutions Architect with a multidisciplinary background in **Data Science, Software Development, Cloud Infrastructure**, and **Cybersecurity**. I design scalable, secure, and intelligent systems with a strong focus on **Generative AI, Analytics, MLOps, and DevOps**.
 
-<hr>
+---
+
+## 🧠 Expertise
+
+- 🌐 **Cloud Platforms:**  
+  Google Cloud Platform (GCP) | AWS | Docker | Kubernetes | Terraform | CI/CD
+
+- 🤖 **Artificial Intelligence:**  
+  Generative AI (OpenAI, Vertex AI) | LangChain | LangGraph | LLMs | Prompt Engineering
+
+- 📊 **Analytics & ML Engineering:**  
+  Data Pipelines | MLOps | Feature Stores | ML Lifecycle | Business Intelligence
+
+- 🧪 **DevOps & SecOps:**  
+  GitHub Actions | Helm | Linux | Monitoring | IAM | WAF | Cloud Logging
+
+- 🔐 **Blockchain & Web3:**  
+  Smart Contracts (Solidity) | Hardhat | DAO Frameworks | MetaMask SDK
+
+---
+
+## 🎓 Academic Background
+
+- 🎓 **MBA** – EGADE Business School 🇲🇽  
+- 📊 **MSc. Big Data Analytics for Business** – IÉSEG 🇫🇷  
+- 💼 **B.A. in Economics** – ITESM 🇲🇽  
+
+---
+
+## 🛠️ Core Stack & Tools
+
+<p align="left">
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgepolanco-roque&show_icons=true&theme=github_dark&hide_border=true" alt="Jorge's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepolanco-roque&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out for collaborations, consulting, or simply to chat about AI and cloud tech.
+
+---
+
+<!-- Dynamic widgets powered by GitHub and Vercel -->
