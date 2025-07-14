@@ -1,4 +1,4 @@
-# 👨‍💻 Jorge Polanco — AI & Cloud Solutions Architect
+# 👨‍💻 Jorge Polanco — Senior AI Engineering Manager
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/jorge-polanco-roque-78ba7b93">
