@@ -17,6 +17,8 @@
 
 I’m an experienced AI Engineering Manager and Solutions Architect with a multidisciplinary background in **Data Science, Software Development, Cloud Infrastructure**, and **Cybersecurity**. I design scalable, secure, and intelligent systems with a strong focus on **Generative AI, Analytics, MLOps, and DevOps**.
 
+Additionally, I’m currently studying **Game Engineering & Immersive Technologies**, developing interactive experiences using **Unity, Godot, and Blender**, combining real-time systems, simulation, and creative coding.
+
 ---
 
 ## 🧠 Expertise
@@ -29,6 +31,9 @@ I’m an experienced AI Engineering Manager and Solutions Architect with a multi
 
 - 📊 **Analytics & ML Engineering:**  
   Data Pipelines | MLOps | Feature Stores | ML Lifecycle | Business Intelligence
+
+- 🎮 **Game Dev & Immersive Tech:**  
+  Unity | Godot | Blender | Game Physics | Real-time Rendering | Interactive Systems
 
 - 🧪 **DevOps & SecOps:**  
   GitHub Actions | Helm | Linux | Monitoring | IAM | WAF | Cloud Logging
@@ -43,6 +48,7 @@ I’m an experienced AI Engineering Manager and Solutions Architect with a multi
 - 🎓 **MBA** – EGADE Business School 🇲🇽  
 - 📊 **MSc. Big Data Analytics for Business** – IÉSEG 🇫🇷  
 - 💼 **B.A. in Economics** – ITESM 🇲🇽  
+- 🎮 **B.Eng. in Game Engineering & Immersive Technologies (In Progress)** – Hybridge 🇲🇽
 
 ---
 
@@ -53,8 +59,10 @@ I’m an experienced AI Engineering Manager and Solutions Architect with a multi
   <code><img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
+  <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/godot.svg"></code>
+  <code><img height="40" src="https://download.blender.org/branding/community/blender_community_badge_white.svg"></code>
 </p>
 
 ---
@@ -69,7 +77,7 @@ I’m an experienced AI Engineering Manager and Solutions Architect with a multi
 
 ## 📫 Let's Connect
 
-Feel free to reach out for collaborations, consulting, or simply to chat about AI and cloud tech.
+Feel free to reach out for collaborations, consulting, or simply to chat about AI, game development, and immersive technologies.
 
 ---
 
