@@ -69,14 +69,6 @@ Additionally, I’m currently studying **Game Engineering & Immersive Technologi
 
 ---
 
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Polanco-Roque&layout=compact&langs_count=10&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 Feel free to reach out for collaborations, consulting, or simply to chat about AI, game development, and immersive technologies.
