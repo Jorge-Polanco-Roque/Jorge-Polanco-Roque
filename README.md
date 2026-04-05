@@ -1,4 +1,4 @@
-# 👨‍💻 Jorge Polanco — AI Software Engineer
+# 👨🏻‍💻 Jorge Polanco — AI Systems Architect
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/jorge-polanco-roque-78ba7b93">
