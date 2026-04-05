@@ -55,14 +55,16 @@ Additionally, I’m currently studying **Game Engineering & Immersive Technologi
 ## 🛠️ Core Stack & Tools
 
 <p align="left">
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
-  <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/godot.svg"></code>
-  <code><img height="40" src="https://download.blender.org/branding/community/blender_community_badge_white.svg"></code>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
 </p>
 
 ---
