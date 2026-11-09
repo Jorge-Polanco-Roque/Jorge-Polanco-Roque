@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/jorge-polanco-roque-78ba7b93">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://roqueio.itch.io/">
+  <a href="https://meatware-studio.itch.io/">
     <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io Badge"/>
   </a>
 </div>
